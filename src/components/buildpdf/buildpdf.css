@@ -1,0 +1,16 @@
+.resume-container{
+    padding: 25px 30px;
+    background: #ffffff;
+    width: 53%;
+    height: 87.6vh;
+    margin: auto;
+    /* padding: 100px; */
+    margin-top: 35px;
+    border-radius: 10px;
+  }
+  .iframe{
+    width: 60% !important;
+    height: 100vh !important;
+    overflow: hidden !important;
+    margin-left: 19% !important;
+  }

@@ -1,0 +1,97 @@
+.ss1{
+    text-align: center;
+}
+.ss2{
+    text-align: center;
+}
+
+.templates img{
+    width: 100%;
+}
+.templates{
+    text-align: center;
+}
+.template-bottom{
+    text-align: left;
+    margin-top: 20px;
+}
+.main-template{
+    background: #eee;
+    margin-top: 50px;
+    padding: 70px 0;
+}
+h3{
+    font-weight: 700 !important;
+}
+.template-text{
+    width: 45%;
+    margin: 20px auto 35px;
+}
+.template-bottom h4{
+    font-weight: 700;
+}
+
+.ss-body img{
+    width: 70%; 
+}
+.ss-body h4{
+    font-weight: 900;
+}
+/* .ss1-img{ 
+    height: 496px;
+} */
+.ss-h4{
+    margin-top: 15px !important;
+}
+.ss-body{
+    cursor: pointer;
+}
+.resume-edit{
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center;
+    flex-direction: row !important;
+    margin-top: 100px !important;
+}
+.pdf-img{
+    width: 85%;
+}
+.home-head{
+    font-weight: 650;
+    font-size: 33px;
+    margin-bottom: 20px;
+}
+.update-date{
+    font-size: 14px;
+    color: rgb(130, 139, 162);
+}
+.home-text i{
+    color: #233d7b;
+}
+.home-links{
+    display: flex;
+    flex-direction: column;
+}
+.home-titleName{
+    font-size: 20px;
+    margin-bottom: 0px !important;
+}
+.home-links a{
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+}
+.ss-body img{
+    height: 326px;
+}
+.boost-career{
+    margin-top: 45px !important;
+}
+.start-btn{
+    background-color: #233d7b;
+}
+.upload-btn-container .anticon{
+    vertical-align: 1px;
+}
+
+
